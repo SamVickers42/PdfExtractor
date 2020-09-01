@@ -7,4 +7,7 @@ Application takes in a single argument: Path to a pipe-delimited text file with 
   • Page Count - number of pages to extract from the original PDF
   • New PDF filepath - file path and filename to save extracted pages 
 
-In practice, the test input file is usually generated from a MS Sql procedure, but can be cobbled together however the user likes, so long as the formatting matches. See file ExampleInput.txt for example formatting. Application uses MIT-licenced c# library PdfSharp 
+In practice, the test input file is usually generated from a MS Sql procedure, but can be cobbled together however the user likes, so long as the formatting matches. 
+See file Testing\ExampleInput.txt for example formatting. Testing folder also includes example PDF and application output from example input file. 
+
+Application uses MIT-licenced c# library PdfSharp 
