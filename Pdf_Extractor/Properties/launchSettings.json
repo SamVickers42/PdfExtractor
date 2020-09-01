@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pdf_Extractor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Testing\\Example_Input.txt"
+    }
+  }
+}
